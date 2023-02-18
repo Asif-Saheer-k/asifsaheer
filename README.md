@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Whatsapp-red?style=for-the-badge&logo=intagram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Whatsapp-red?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
