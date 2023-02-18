@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@main
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/Asif-Saheer.k"
+          feed_list: "https://dev.to/feed/Asif-Saheer-k"
