@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Asif-Saheer-k&style=flat-square&color=blue" alt=""/>
+  </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmalrahmannc&label=Profile%20views&color=0e75b6&style=flat" alt="ajmalrahmannc" /> </p>
 
